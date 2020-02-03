@@ -1,1 +1,3 @@
 Working for new game
+and
+This is a book for master branch
